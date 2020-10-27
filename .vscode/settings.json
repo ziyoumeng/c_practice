@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "editor.fontSize": 16,
+    "editor.detectIndentation": false,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "common.h": "c"
+    }
+}
